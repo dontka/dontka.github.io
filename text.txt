@@ -1,0 +1,6 @@
+cd . pour afficher le dossier dans le auel on est
+mkdir nom_du_dossier . pour creer un nouveau dossier
+ls . pour afficher la liste des fihier se trouvant dans un dossier
+touch fichier.txt . pour creer un nouveau fichier
+
+git config --global --list : pour afficher les infos de la personne qui travail
