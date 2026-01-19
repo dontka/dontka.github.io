@@ -1,0 +1,73 @@
+PARTIE TECHNIQUE DU SITE WEB
+SCHOR : Centre de Consultance Scientifique et d’Orientation Humanitaire et en Anglais dont hérite le nom, 
+Scientific Consultancy and Humanitarian Orientation est une un outil scientifique conçu pour guider les décisions scientifiques et professionnelles des organisations, 
+des institutions publiques et privées, des personnes physiques tout comme morales en collectant, analysant, en interprétant et en donnant des conseils scientifiques et professionnels pour le développement intégral ainsi que le bien-être de l’humanité au niveau local.
+
+Aplication web complet en PHP, MYSQL, HTML, CSS et Bootstrap d'un site web moderne et professionnel pour « Centre de Consultance Scientifique et d’Orientation Humanitaire ». 
+Ce Template reflète parfaitement le concept de SCHOR :
+-	L’outil scientifique, la consultance, l’orientation, la data, l’innovation, la transparence, la formation et l’appui à la recherche.
+-	Les cibles : PME, startups, ONG, autorités, chercheurs, universités, personnes physiques et morales.
+I.	LA STRUCTURE DE LA PARTIE FRONT DU SITE WEB UI/UX
+-	Slogan, valeurs, objectifs, cibles, services, data, publications, formation, appui à la recherche, tout est mis en avant.
+-	Un design premium, Github like, responsive, et prêt pour l’intégration de scripts dynamiques
+-	Design moderne, professionnel, navigation claire, sections différenciées, palette, adapté SEO et typographie adaptée.
+1. Accueil 
+-	Slogan impactant, image/illustration scientifique et humanitaire
+-	Accès rapide : Collecte de données, Analyse, Conseils, Publications, Formation
+-	Mise en avant : Accessibilité, Transparence, Innovation, Appui à la recherche
+-	Ajout d’une barre de recherche, d’un carrousel de témoignages, d’une section “Actualités”, d’un CTA flottant, d’une timeline, d’un header sticky, d’animations CSS, et d’un design plus dynamique.
+2. Nos Missions / Pourquoi SCHOR
+-	Section “Nos objectifs” (cartes ou icônes) : accessibilité, transparence, efficience, formation, appui à la recherche
+-	Section “Pour qui ?” (PME, ONG, chercheurs, etc.)
+3. Collecte & Analyse de Données
+-	Espace interactif (tableaux, graphiques, upload, visualisation)
+-	Call-to-action pour demander une analyse ou déposer des données
+4. Conseils & Orientation
+-	Prise de rendez-vous, demande de consultance, FAQ, témoignages
+5. Publications & Ressources
+-	Blogs, rapports, études, espace pour chercheurs
+6. Formation & Sensibilisation
+-	Ateliers, webinaires, documentation, espace universités
+7. Espace Utilisateur / Admin
+-	Dashboard moderne, suivi des demandes, publications, analyses
+8. Footer enrichi et moderne
+II.	DANS L’ESPACE ADMIN
+Voici une liste des fonctionnalités et des pages à ajouter :
+1.	Tableau de bord synthétique (statistiques, graphiques, notifications, accès rapide)
+2.	Gestion avancée des utilisateurs (création, modification, rôles, activation, historique, export)
+3.	Gestion des publications (workflow de validation, édition, suppression, aperçu, notifications)
+4.	Gestion des données (upload, validation, visualisation, export, logs d’accès)
+5.	Gestion des rendez-vous/événements (prise de RDV, calendrier, notifications)
+6.	Gestion des formations (création, suivi, inscriptions, statistiques)
+7.	Gestion des partenaires/organisations (ajout, édition, suivi, documents)
+8.	Gestion des notifications/messages (envoi, historique, ciblage)
+9.	Paramètres du centre (branding, accès, sécurité, logs)
+10.	Logs d’activité et audit (historique des actions, sécurité)
+11.	Support/FAQ admin (aide, documentation interne)
+12.	Recherche globale et filtres avancés (sur tout le contenu)
+13.	Widgets personnalisables (accès rapide, favoris, etc.)
+
+En enrichissant les pages de la partie admin avec :
+-	Un dashboard synthétique (stats, graphiques, notifications)
+-	Un menu latéral moderne pour navigation rapide entre toutes les sections
+-	Des sections dédiées pour chaque gestion (utilisateurs, publications, données, rendez-vous, formations, partenaires, notifications, paramètres, logs, support)
+-	Un design premium, responsive, et prêt pour l’intégration de scripts dynamiques
+III.	DANS L’ESPACE ADMIN
+Voici une liste des fonctionnalités et des pages à ajouter à la logique utilisateur :
+1.	Page d’inscription
+2.	Page de connexion
+3.	Tableau de bord synthétique pour utilisateur (statistiques, graphiques, notifications, accès rapide)
+4.	Gestion avancée des projets de l’utilisateur (création des business plan, modification, rôles, activation, historique, export)
+5.	Gestion des publications (workflow de validation, édition, suppression, aperçu, notifications)
+6.	Gestion des données (upload, validation, visualisation, export, logs d’accès)
+7.	Gestion des rendez-vous/événements (prise de RDV, calendrier, notifications)
+8.	Gestion des formations (création, suivi, inscriptions, statistiques)
+9.	Gestion des partenaires/organisations (ajout, édition, suivi, documents)
+10.	Gestion des notifications/messages (envoi, historique, ciblage)
+11.	Paramètres du centre (branding, accès, sécurité, logs)
+12.	Logs d’activité et audit (historique des actions, sécurité)
+13.	Support/FAQ pour utilisateur (aide, documentation interne)
+14.	Recherche globale et filtres avancés (sur tout le contenu)
+15.	Widgets personnalisables (accès rapide, favoris, etc.)
+Tout ça avec - Un design premium, responsive, moderne et UI/UX, UI/UX GitHub-like
+
